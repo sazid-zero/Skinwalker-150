@@ -12,7 +12,7 @@ The users uses the arrow keys (left and right) to move the car (left and right).
 <br/><h1>Objective:</h1> 
 The objective of this game is to beat the opponents, set new lap records.
 
-<br/><h1>Features</h1>
+<br/><h1>Features:</h1>
 Choose from a variety of cars with unique characteristics.<br/>
 Navigate through a dynamically generated track with random obstacles.<br/>
 Compete against intelligent AI opponents with varying skill levels.<br/>
