@@ -13,12 +13,12 @@ The users uses the arrow keys (left and right) to move the car (left and right).
 The objective of this game is to beat the opponents, set new lap records.
 
 <br/><h1>Features</h1>
-*Choose from a variety of cars with unique characteristics.
-*Navigate through a dynamically generated track with random obstacles.
-*Compete against intelligent AI opponents with varying skill levels.
-*Earn points for each successful lap and try to set a new high score.
-*Engage in intense races with realistic physics and responsive controls.
-*Experience the adrenaline rush of high-speed racing in the console environment.
+Choose from a variety of cars with unique characteristics.<br/>
+Navigate through a dynamically generated track with random obstacles.<br/>
+Compete against intelligent AI opponents with varying skill levels.<br/>
+Earn points for each successful lap and try to set a new high score.<br/>
+Engage in intense races with realistic physics and responsive controls.<br/>
+Experience the adrenaline rush of high-speed racing in the console environment.<br/>
 
 <br/><h1>Development:</h1> 
 We are developing this game with c++.
